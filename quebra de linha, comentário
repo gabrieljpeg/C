@@ -1,0 +1,6 @@
+Para dar uma quebra de linha utiliza-se o comando \n
+Ex: printf("Seja bem-vindo!\n");
+
+Quando for fazer um comentário na linha de código e para o computador ignorar na hora de compilar utliza-se o comando //
+Ex:
+//Imprime uma mensagem na tela
