@@ -1,0 +1,18 @@
+Para usar funções, por exemplo, printf, é necessário incluir a biblioteca stdio.h no começo do código
+Ex: #include <stdio.h>
+
+O int main é usado para guardar todo o código dentro dele, utilizando parênteses e chaves.
+Ex: int main () {
+}
+
+O printf é usado para escrever um texto ou string na tela.
+Ex: printf("Olá, mundo!");
+
+Então, o programa ficaria da seguinte forma
+#include <stdio.h>
+
+int main () {
+
+  printf("Olá, mundo!");
+
+}
