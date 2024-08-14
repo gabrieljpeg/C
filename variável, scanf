@@ -1,0 +1,15 @@
+Variável é um espaço de memória que armezana um valor, seja número, letra, nome ou palavra
+Para números inteiros utiliza-se int
+Ex: int iadade = 25;
+
+Para um ponto flutuante utiliza-se float
+Ex: float altura = 1.80;
+
+Para uma letra utliza-se chat
+Ex: char sexo = "M";
+
+Então para digitar as variáveis basta usar %d pra int, %f para float e %c para char
+Ex: printf("O número %d é o secreto", numerosecreto);
+
+A função scanf serve para ler o teclado
+Ex: scanf("%d", &chute);
