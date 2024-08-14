@@ -1,0 +1,9 @@
+If e else serve para o programa tomar uma decisão como o prórpio nome diz
+Ex:
+if (chute == numerosecreto) {
+  printf("Parabéns! Você acertou!\n");
+}
+else {
+  printf("Você errou!\n");
+  printf("Tente novamente!\n");
+}
