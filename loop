@@ -1,3 +1,6 @@
 O comando for é usado para repetir um bloco de código envolvido por chaves. Um contador de incremento é geralmente utilizado para terminar o loop. O comando for é útil para qualquer operação repetitiva.
 Ex:
 for(int i = 1; i <= 3; i++) 
+
+O break é usado para é usado para parar a ação no for quando ela estiver correta.
+Ex: break;
