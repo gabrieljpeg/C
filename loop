@@ -4,3 +4,17 @@ for(int i = 1; i <= 3; i++)
 
 O break é usado para é usado para parar a ação no for quando ela estiver correta.
 Ex: break;
+
+Switch case. Existem situações em que sempre será selecionada apenas uma condição, sendo impossível duas acontecerem ao mesmo tempo.
+Nesta situação que se assemelha a escolher uma opção de um "Menu", é recomendado utilizar a condicional SWITCH.
+Ex: switch(opcao){
+  case 1:
+    printf("Objeto 1");
+    break;
+case 2:
+    printf("Objeto 2");
+    break;
+case 1:
+    printf("Objeto 3");
+    break;
+}
